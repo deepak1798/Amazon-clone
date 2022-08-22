@@ -19,8 +19,6 @@
 body{
     background-color: var(--minor-bg-color);
 }
-
-
 /* header */
 
 .header{
@@ -242,7 +240,6 @@ body{
     font-size: 10px;
 }
 
-
 /* section-4 */
 
 .section-4{
@@ -269,7 +266,6 @@ body{
     padding: 8px;
     border-radius: 10px;
 }
-
 
 /* footer */
 
